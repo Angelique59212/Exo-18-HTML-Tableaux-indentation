@@ -52,6 +52,7 @@
       <workItem from="1634555837099" duration="43000" />
       <workItem from="1634555898582" duration="32000" />
       <workItem from="1638226227420" duration="38000" />
+      <workItem from="1638269489874" duration="26000" />
     </task>
     <task id="LOCAL-00001" summary="raccourci d'indentation">
       <created>1634037588298</created>
@@ -88,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638226239182</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="raccourci d'indentation">
+      <created>1638269498034</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1638269498034</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
